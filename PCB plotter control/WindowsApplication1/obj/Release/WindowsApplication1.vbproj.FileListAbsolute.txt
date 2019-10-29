@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Users\Tim\Desktop\Visual Basic Assignment\WindowsApplication1\obj\Release\WindowsApplication1.pdb
